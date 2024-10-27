@@ -6,7 +6,7 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="style.css" />
-    <title>Calculator - By Code Traversal</title>
+    <title>Calculator</title>
   </head>
   <body>
       <div class="calculator">
